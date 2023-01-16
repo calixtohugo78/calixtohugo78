@@ -24,4 +24,4 @@
     <img align="cente" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-Constant learner, fascinated professionally and personally, providing business improvement, acquiring and sharing with like-minded people.
+Highly qualified developer with over 3+ years of experience in web and mobile development. I have a strong knowledge of programming languages such as JavaScript, TypeScript and PHP. I have the ability to develop web and mobile applications using technologies such as ReactJS, React Native, Next and Laravel. I have experience in API development and integration with other systems. I have skills to work with agile methodologies and experience in project management. Passionate about technology and always looking to learn new skills and technologies.
